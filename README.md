@@ -13,3 +13,6 @@ This program is a simple register of contacts with the possibility of writing a 
 
 -----
 
+https://www.youtube.com/playlist?list=PLtQDCppOEDt7wNr79IzJx3dro6wcpVhbs
+
+
