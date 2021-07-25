@@ -1,0 +1,22 @@
+NETASSOC.DBF .... Base de dados
+NETASSOC.DBT .... Base de dados (campo memo)
+MK_ASS.ntx ...... Indice por IDCHAVE
+NK_ASS.ntx ...... Indice por RAZAO
+
+MYFILE.PRG ... Programa principal com configuracoes de ambiente
+MENU.PRG ..... Menu e submenu
+CD1000.PRG ... Manutencao de Cadastros
+CR1000.PRG ... Historicos de Cadastros
+PC1000.PRG ... Consultas de Cadastros
+PC2000.PRG ... Browse de Cadastros
+HT_NETW.PRG .. Impressao de HTML e TXT
+AP_NETW.PRG .. Indexacao, Ordenacao e Configuracao
+DB_NETW.PRG .. Buscas no cadastro para o Browse
+SL_A.PRG ..... Funcoes de arquivo DBF
+SL_B.PRG ..... Funcoes auxiliares para o Browse
+SL_F.PRG ..... Funcoes para informacao adicional (mensagem, ajuda, etc)
+SL_I.PRG ..... Funcoes para impressao
+SL_S.PRG ..... Funcoes para cor e mensagens de erro
+SL_T.PRG ..... Funcoes de desenho de tela
+SL_V.PRG ..... Declaracao de variaveis publicas
+SL_X.PRG ..... Funcoes complementares

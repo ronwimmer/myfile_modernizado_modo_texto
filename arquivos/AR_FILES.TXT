@@ -1,0 +1,22 @@
+
+NETASSOC.DBF     Atualizado em 23/02/2015 as 11:32:58    N.Reg:        1
+
+NETASSOC->IDCHAVE      C   7 0
+NETASSOC->RAZAO        C  40 0
+NETASSOC->NOME         C  40 0
+NETASSOC->DT_NASC      C  10 0
+NETASSOC->DOCUMENTO    C  40 0
+NETASSOC->END_RUA      C  40 0
+NETASSOC->END_BAIRRO   C  30 0
+NETASSOC->END_CIDADE   C  30 0
+NETASSOC->END_CEP      C   9 0
+NETASSOC->END_UF       C  22 0
+NETASSOC->FONE_RES     C  30 0
+NETASSOC->FONE_CEL     C  30 0
+NETASSOC->END_EMAIL    C  45 0
+NETASSOC->WEB_SITE     C  44 0
+NETASSOC->NUM_ICQ      C  45 0
+NETASSOC->CADASTRO     C  10 0
+NETASSOC->DETALHE      M  10 0
+
+################################################################################
