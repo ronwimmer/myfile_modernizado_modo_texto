@@ -1,4 +1,4 @@
-# myfile_modernizado_modo_texto
+# Myfile modernizado modo texto
 Projeto MyFile Modernizado - telas em modo texto
 
 Programa **Myfile** padrão texto com mudanças para **Harbour** Canal **Dicas de Programação do Ron** do YouTube Playlist _Conversão de Clipper Summer em Harbour Gráfico_.
